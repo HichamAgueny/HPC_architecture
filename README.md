@@ -5,11 +5,17 @@ This presentation was in the context of a webinar that was given online on 20 Ma
 This is the agenda of the webinar:
 
 • Short introduction to HPC
+
 • Compute Node Architecture
+
 • CPU & GPU Architectures
+
 • High-speed Network Architecture
+
 • Communication Framework Architecture
+
 • File System & Storage Architecture
+
 • Optimization Strategies: GPUDirect Technology
 
 
